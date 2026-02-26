@@ -14,7 +14,7 @@
 
 ::selection {
   color: black;
-  background-color: #00a0e0;
+  background-color: #FEC288;
 }
 
 header {
@@ -30,7 +30,7 @@ header {
 }
 
 .header-left-side h1 {
-  color: #00a0e0;
+  color: #FD8A6B;
   line-height: 1.2em;
   font-size: 78px;
   padding: 20px;
@@ -39,7 +39,7 @@ header {
 }
 
 .header-left-side h2 {
-  color: #00a0e0;
+  color: #FB9B8F;
   font-family: "Inter", sans-serif;
   font-size: 20px;
   line-height: 1.2em;
@@ -60,7 +60,7 @@ header {
 
 button {
   padding: 20px 10px;
-  border: 2px solid #00a0e0;
+  border: 2px solid #F08787;
   background: transparent;
   width: 47%;
   color: white;
@@ -72,13 +72,13 @@ button {
 }
 
 button:hover {
-  background-color: #00a0e0;
+  background-color: #FEE2AD;
   transition: 0.7s;
 }
 
 .btn {
   width: 97%;
-  background-color: #00a0e0;
+  background-color: #E36A6A;
 }
 
 .header-left-side h3 {
